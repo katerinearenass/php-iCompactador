@@ -53,7 +53,7 @@ class iCompactador {
   }
 
   /**
-   * Esta clase aplica todas las rutinas de analisis gramatical al codigo proporsionado
+   * Esta clase aplica todas las rutinas de analisis gramatical al codigo proporcionado
    * @param type $script
    * @return type
    */
